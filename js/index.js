@@ -12,8 +12,8 @@ while(segundaSenha <= primeiraSenha){
 }
 
 // Definindo duas variáveis numéricas
-let primeiroValorNumerico = 0.40
-let segundoValorNumerico = 0.20
+let primeiroValorNumerico = 40
+let segundoValorNumerico = 20
 
 // Faça o seguinte bloco de código pelo menos uma vez e enquanto segundoValorNumerico for menor ou igual a primeiroValorNumerico, continue fazendo-o
 do {
